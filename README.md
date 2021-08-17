@@ -1,2 +1,2 @@
-# static_assert
+# static-assert
 Static assertions for Rust.
