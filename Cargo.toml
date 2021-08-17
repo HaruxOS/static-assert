@@ -1,0 +1,6 @@
+[package]
+name = "static_assert"
+version = "0.0.0"
+authors = [ "The HaruxOS Team" ]
+description = "Static assertions for Rust."
+license = "Apache-2.0"
