@@ -10,6 +10,8 @@
 
 #![no_std]
 
+#![feature(decl_macro)]
+
 /// Statically asserts that an expression is true.
 pub macro static_assert {
     ($($arguments:tt)*) => {
